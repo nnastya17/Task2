@@ -1,0 +1,14 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\Blank.png
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\O.png
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\X.png
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task2\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
